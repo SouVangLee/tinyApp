@@ -1,0 +1,13 @@
+.navbar-list {
+  display: flex;
+
+}
+
+.navbar-list ul {
+  list-style: none;
+}
+
+.component {
+  display: flex;
+  
+}
